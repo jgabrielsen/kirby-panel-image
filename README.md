@@ -25,8 +25,8 @@ As soon as you dropped the field extension into your fields folder you can use i
 fields:
   image1:
     type: panelimage
-    label: Lighting
+    label: Lightning
     imageurl: http://i.imgur.com/4UVYofU.gif
 ```
 
-The field works with the width option, fitting it's block 100% while maintaining the image's aspect ratio.
+The field works with the width option; the image width is set to 100% of its field block and maintains the image's aspect ratio.
